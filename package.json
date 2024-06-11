@@ -10,6 +10,7 @@
     "Extension Packs"
   ],
   "icon": "icon.jpg",
+  "publisher": "benceszalaiii",
   "repository": "Benceszalaiii/python-agazati",
   "extensionPack": [ 
     "ms-python.python",
