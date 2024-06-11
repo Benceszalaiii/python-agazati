@@ -1,0 +1,21 @@
+{
+  "name": "python-agazati",
+  "displayName": "Basic Python Ágazati",
+  "description": "Your starter kit for Python development",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.58.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "icon": "icon.jpg",
+  "repository": "",
+  "extensionPack": [ 
+    "ms-python.python",
+    "KevinRose.vsc-python-indent",
+    "charliermarsh.ruff",
+    "benceszalaiii.python-snippets-agazati",
+    "christian-kohler.path-intellisense"
+  ]
+}
