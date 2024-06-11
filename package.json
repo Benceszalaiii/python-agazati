@@ -9,10 +9,10 @@
   "categories": [
     "Extension Packs"
   ],
-  "icon": "icon.jpg",
+  "icon": "icon.webp",
   "publisher": "benceszalaiii",
   "repository": "Benceszalaiii/python-agazati",
-  "extensionPack": [ 
+  "extensionPack": [
     "ms-python.python",
     "KevinRose.vsc-python-indent",
     "charliermarsh.ruff",
