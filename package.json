@@ -10,7 +10,7 @@
     "Extension Packs"
   ],
   "icon": "icon.jpg",
-  "repository": "",
+  "repository": "Benceszalaiii/python-agazati",
   "extensionPack": [ 
     "ms-python.python",
     "KevinRose.vsc-python-indent",
